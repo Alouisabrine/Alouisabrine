@@ -13,4 +13,4 @@
 - **Base de données** : MySQL 
 - **Visualisation de données** : Chart.js  
 - **Conception & Modélisation** : UML (Draw.io), Ishikawa (XMind), Gantt  
--- **DevOps** : Git, Docker, Docker Compose, CI/CD (Intégration et déploiement continus)
+- **DevOps** : Git, Docker, Docker Compose, CI/CD (Intégration et déploiement continus)
