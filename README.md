@@ -1,3 +1,9 @@
+
+![techniques-creativite](https://github.com/user-attachments/assets/20b8bf3d-71ce-4b24-9d49-0810c30580c0)
+
+
+
+
 # 👋 Bienvenue sur mon profil GitHub
 
 🎓 **Développeuse web** avec un **BTS en Informatique** et un **Master en Gestion Industrielle**, je combine compétences techniques et vision organisationnelle pour créer des solutions numériques adaptées aux besoins métiers.
